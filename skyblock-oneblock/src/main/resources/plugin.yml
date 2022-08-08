@@ -1,0 +1,8 @@
+name: PlazmixOneblock
+main: net.plazmix.skyblock.oneblock.SkyOneblockPlugin
+
+version: 1.0
+author: ItzStonlex
+
+depend:
+  - PlazmixAPI
